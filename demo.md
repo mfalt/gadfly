@@ -16,7 +16,7 @@ load("Gadfly")
 using Gadfly
 
 load("RDatasets")
-using RDataets
+using RDatasets
 
 iris = data("datasets", "iris")
 ```
